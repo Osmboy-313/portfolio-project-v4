@@ -1,5 +1,7 @@
 <?php 
 
+$projectFolder = basename(dirname(__DIR__));
+session_name($projectFolder . '_session');
 session_start();
 
 require_once __DIR__ . '/../app/core/bootstrap.php';

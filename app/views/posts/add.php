@@ -24,7 +24,7 @@ $statusMsg = $statusClass ? $status[$statusClass] : '' ;
             <i class='bx bx-x alert__close'></i> 
         </div>
         
-        <div class="title"><span>Add Post</span></div>
+        <div class="title"><span>Create Post</span></div>
 
         <div class="input-box <?= $errorClass('title')?>">
             <label for="Post Name">Post Title</label>

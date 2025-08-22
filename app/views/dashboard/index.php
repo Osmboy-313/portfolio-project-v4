@@ -3,7 +3,7 @@
 
 <div class="main-content dashboard">
 
-    <span>Welcome <?php echo $_SESSION['user']['user_type']?></span>
+    <span>Welcome <?php echo ucfirst($_SESSION['user']['username'])?></span>
 
 </div>
 

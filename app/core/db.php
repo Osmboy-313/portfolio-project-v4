@@ -1,9 +1,9 @@
 <?php
 
-define("DB_HOST", "sql100.infinityfree.com");
-define("DB_PASS", "yHsU1pdODr1");
-define("DB_USERNAME", "if0_39697025");
-define("DB_NAME", "if0_39697025_project");
+define("DB_HOST", "localhost");
+define("DB_PASS", "");
+define("DB_USERNAME", "root");
+define("DB_NAME", "forum-project");
 
 function db(){
     static $conn;

@@ -2667,7 +2667,7 @@ body {
 }
 
 .app.app--private .main-layout .content .content-card .main-content.my-profile .profile form .input-box input {
-    height: 30px;
+    height: 40px;
     width: 100%;
     padding: var(--spacing-sm) var(--spacing-md);
     font-size: 0.9rem;
@@ -2716,7 +2716,7 @@ body {
 
 .app.app--private .main-layout .content .content-card .main-content.my-profile .profile form .input-box .select-wrapper select {
     width: 100%;
-    height: 30px;
+    height: 40px;
     padding: 0 var(--spacing-md);
     background-color: transparent;
     border: 2px solid #dee2e6;
@@ -3003,6 +3003,7 @@ body {
 
 /*** __________________________________________ Add/Edit Modal Input Fields __________________________________________ ***/
 
+
 .app.app--private .main-layout .modal .modal__wrapper .modal__body form .modal__input-box label {
     margin: 0 10px 10px;
     display: block;
@@ -3010,7 +3011,9 @@ body {
 
 .app.app--private .main-layout .modal .modal__wrapper .modal__body form .modal__input-box input {
     height: 40px;
-    width: 100%;
+    width: 98%;
+    display: block;
+    margin: 0 auto;
     padding: 0 var(--spacing-md);
     border-radius: var(--border-radius-full);
     border: 2px solid var(--border-color);

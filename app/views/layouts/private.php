@@ -14,7 +14,7 @@ switch ($user_type) {
 
     case 'user':
         $menuItems = [
-            ['controller' => 'post', 'action' => 'add', 'label' => 'Add Post'],
+            ['controller' => 'post', 'action' => 'add', 'label' => 'Create Post'],
             ['controller' => 'post', 'action' => 'index', 'label' => 'My Posts'],
             ['controller' => 'category', 'action' => 'index', 'label' => 'Global Categories'],
         ];
@@ -24,7 +24,7 @@ switch ($user_type) {
         $menuItems = [
             ['controller' => 'user', 'action' => 'index', 'label' => 'Users'],
             ['controller' => 'post', 'action' => 'all', 'label' => 'All Posts'],
-            ['controller' => 'post', 'action' => 'add', 'label' => 'Add Post'],
+            ['controller' => 'post', 'action' => 'add', 'label' => 'Create Post'],
             ['controller' => 'post', 'action' => 'index', 'label' => 'My Posts'],
             ['controller' => 'category', 'action' => 'index', 'label' => 'Global Categories'],
         ];
@@ -34,7 +34,7 @@ switch ($user_type) {
         $menuItems = [
             ['controller' => 'user', 'action' => 'index', 'label' => 'Users'],
             ['controller' => 'post', 'action' => 'all', 'label' => 'All Posts'],
-            ['controller' => 'post', 'action' => 'add', 'label' => 'Add Post'],
+            ['controller' => 'post', 'action' => 'add', 'label' => 'Create Post'],
             ['controller' => 'post', 'action' => 'index', 'label' => 'My Posts'],
             ['controller' => 'category', 'action' => 'index', 'label' => 'Global Categories'],
             ['controller' => 'code', 'action' => 'index', 'label' => 'Codes'],
