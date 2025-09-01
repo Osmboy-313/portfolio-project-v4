@@ -4,6 +4,13 @@ A full-featured **Content Management System** built in **pure procedural PHP**, 
 
 ---
 
+## LICENSE
+
+*Say no to COMMUNISM ☭, this project is not ours, it's mine*
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)  
+
+
 ## Tech Stack
 
 - **Backend**: PHP (Procedural MVC), MySQL
@@ -207,7 +214,7 @@ This project is 100% designed, developed, and architected by me — no framework
 
 ## Future Plans
 
-- version 5 => under work | REST API Conversion + JWT TOken + JS page rendering (SPA) (Im not sure about this SPA, I might skip this)
+- version 5 => under work | REST API Conversion + JWT Token + JS page rendering (SPA) (I'm not sure about this SPA, I might skip this)
 - version 6 => Graph QL
 - version 7 => OOP REST API
 - version 8 => OOP Graph QL
