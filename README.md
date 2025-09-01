@@ -104,6 +104,7 @@ A full-featured **Content Management System** built in **pure procedural PHP**, 
 
 ## Folder Structure
 
+```
 /project-root
 │
 ├── /app
@@ -120,6 +121,8 @@ A full-featured **Content Management System** built in **pure procedural PHP**, 
 │     ├── style
 │     ├── uploads
 │     └── fonts
+
+```
 
 
 
