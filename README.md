@@ -24,7 +24,7 @@ A full-featured **Content Management System** built in **pure procedural PHP**, 
 - Secure login/logout system using sessions
 - Password hashing with bcrypt
 - JS-powered real-time username/email validation
-- Registration codes for admin/boss login are managed by BOSS
+- BOSS manages registration codes for admin/boss registration and conversion through profile update
 
 ### UI/UX
 
@@ -207,7 +207,7 @@ This project is 100% designed, developed, and architected by me — no framework
 
 ## Future Plans
 
-- version 5 => REST API Conversion + JWT TOken + JS page rendering (SPA) (Im not sure about this SPA, I might skip this)
+- version 5 => under work | REST API Conversion + JWT TOken + JS page rendering (SPA) (Im not sure about this SPA, I might skip this)
 - version 6 => Graph QL
 - version 7 => OOP REST API
 - version 8 => OOP Graph QL
