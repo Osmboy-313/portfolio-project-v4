@@ -56,7 +56,7 @@ A full-featured **Content Management System** built in **pure procedural PHP**, 
   - Categories CRUD
   - Codes CRUD
   - User listing & role-based deletion
-- Real-time category and username validation
+- Real-time category, codes and username, email validation
 
 ### CRUD & CMS Features
 
