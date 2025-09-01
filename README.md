@@ -223,11 +223,5 @@ This project is 100% designed, developed, and architected by me — no framework
 
 ---
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
 
 
