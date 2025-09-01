@@ -61,8 +61,8 @@ A full-featured **Content Management System** built in **pure procedural PHP**, 
 ### CRUD & CMS Features
 
 - Users, Admins, and Bosses can all post
-- Users used to have private categories (forum-style)
-- Global categories introduced (Reddit-style)
+- Users used to have private categories (forum-style), old feature in version 3
+- Global categories introduced (Reddit-style), it's a new feature applied in version 4
 - Tag/chip system for posts
 - Pagination for large datasets
 - Search and filter by categories, tags, title, content
