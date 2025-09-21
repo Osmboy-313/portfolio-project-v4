@@ -192,7 +192,7 @@ https://osmboy.infinityfree.me/public/cron.php?key=a_big_super_secret
 
 **Name**: *OSMBOY*  
 **Role**: Full-Stack Developer  
-**Education**: Intermediate in ICS and currently pursuing BSCS  
+**Education**: Intermediate in ICS and currently in BSCS 1st Semester 
 **Contact**: Osmanpak9912@gmail.com | osmboy.infinityfree.me  
 
 ---
@@ -213,6 +213,4 @@ This project is 100% designed, developed, and architected by me — no framework
 
 
 ---
-
-
 
