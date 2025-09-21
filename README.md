@@ -164,18 +164,6 @@ A full-featured **Content Management System** built in **pure procedural PHP**, 
 
 ---
 
-## ⚡ How to Run Locally
-
-> You must have PHP + MySQL installed (e.g., XAMPP/LAMPP or Laragon)
-
-1. Clone the repository
-2. Import the SQL dump to MySQL
-3. Configure DB credentials in `/app/core/db.php`
-4. Serve the `/public` folder via localhost (Apache/Nginx)
-5. Set up a cron job pointing to `app/cron/master-cleanup.php`
-
----
-
 ## Security Notes
 
 - **Passwords**: Enforced length, hashed with bcrypt
