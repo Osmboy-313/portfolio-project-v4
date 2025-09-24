@@ -153,14 +153,14 @@ A full-featured **Content Management System** built in **pure procedural PHP**, 
 
 ## Core Concepts Implemented
 
-- 🔁 PRG Pattern
-- 🔄 Debounced AJAX Validation
-- ✅ Real-time error display
-- 🧩 Reusable UI components (e.g., modals, tabbed interface)
-- 🔐 Secure sessions + authentication
-- 🗃️ Server-side pagination
-- 🧹 Automated cleanup systems
-- 🚫 Soft-deletes for reversible actions
+- PRG Pattern
+- Debounced AJAX Validation
+- Real-time error display
+- Reusable UI components (e.g., modals, tabbed interface)
+- Secure sessions + authentication
+- Server-side pagination
+- Automated cleanup systems
+- Soft-deletes for reversible actions
 
 ---
 
